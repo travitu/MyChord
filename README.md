@@ -24,5 +24,5 @@ Instruments or you can use as a simple accompaniment tool even when not at hand.
 - iPhone and iPod touch
 
 
-App Storeのリンクはこちら  
+## App Store 
 <a href="https://itunes.apple.com/us/app/my-chord/id953517029?l=ja&ls=1&mt=8" target="_blank">My Chord</a>
