@@ -1,6 +1,6 @@
 MyChord
 =======
-
+![icon_image](https://raw.github.com/wiki/travitu/my-resources/icon340x340.png)  
 This is a support page of the iOS app "My Chord".  
 Coming soon!
 
