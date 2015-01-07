@@ -2,7 +2,6 @@ MyChord
 =======
 ![icon_image](https://raw.github.com/wiki/travitu/my-resources/icon340x340.png)  
 This is a support page of the iOS app "My Chord".  
-Coming soon!
 
 ## About
 Tap the button of the code, it is an application that allows you to play the simple to code in piano and guitar sound.
