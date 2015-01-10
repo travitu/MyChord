@@ -1,4 +1,4 @@
-MyChord
+My Chord
 =======
 ![icon_image](https://raw.github.com/wiki/travitu/my-resources/icon340x340.png)  
 This is a support page of the iOS app "My Chord".  
@@ -6,7 +6,7 @@ iOSアプリ「My Chord」のサポートページです。
 
 ## About / 概要  
 **English**  
-Tap the button of the code, it is an application that allows you to play the simple to code in piano and guitar sound.
+Tap the button of the chord, it is an application that allows you to play the simple to chord in piano and guitar sound.
 Please use, such as when you think about the chord progression and melody.
 Instruments or you can use as a simple accompaniment tool even when not at hand.  
 Free App.  
@@ -18,9 +18,9 @@ Free App.
 
 ## Function / 機能  
 **English** 
-- Code changes
+- Chord changes
 - Tone switching [Piano, Guitar, Strings]
-- Display of code history that you tap, save, read
+- Display of chord history that you tap, save, read
 - Volume slider
 - Share in the Facebook,Twitter,Mail,and more...  
 
@@ -33,7 +33,11 @@ Free App.
 
 ## Usage / 使い方  
 **English** 
-- You can delete all the history of displayed code at long press of the Delete button.  
+- Tap the chord button will sound the chord.
+- You can change the chord for each button in the Edit button.
+- Display the chord history of you tap in red button, you can save in the Save button when can favorite chord progression.
+- You can see the chord history that you have saved in the past and the switching of the tone in the Menu button.
+- You can delete all the history of displayed chord at long press of the Delete button.  
 
 **Japanese**  
 - コードのボタンをタップしてコードを鳴らします。
