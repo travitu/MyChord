@@ -5,7 +5,7 @@ This is a support page of the iOS app "My Chord".
 iOSアプリ「My Chord」のサポートページです。
 
 ## Information / お知らせ  
-- New App version will comming soon!
+- New App version will coming soon!
 
 ## Overview / 概要  
 **English**  
