@@ -4,7 +4,10 @@ My Chord
 This is a support page of the iOS app "My Chord".  
 iOSアプリ「My Chord」のサポートページです。
 
-## About / 概要  
+## Information / お知らせ  
+- New App version will comming soon!
+
+## Overview / 概要  
 **English**  
 Tap the button of the chord, it is an application that allows you to play the simple to chord in piano and guitar sound.
 Please use, such as when you think about the chord progression and melody.
@@ -46,7 +49,7 @@ Free App.
 - Menuボタンで音色の切り替えと過去に保存したコード履歴を見ることができます。
 - Deleteボタンの長押しで表示中のコード履歴を一括削除できます。
 
-## Compatibility / 動作条件  
+## Requirement / 動作条件  
 **English** 
 - iOS7 later
 - iPhone and iPod touch
