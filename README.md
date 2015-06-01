@@ -1,11 +1,11 @@
 My Chord
 =======
-![icon_image](https://raw.github.com/wiki/travitu/my-resources/icon340x340.png)  
+![icon_image](https://raw.github.com/wiki/travitu/my-resources/screen322x572.jpeg)  
 This is a support page of the iOS app "My Chord".  
 iOSアプリ「My Chord」のサポートページです。
 
 ## Information / お知らせ  
-- New App version will coming soon!
+- ver1.2 released
 
 ## Overview / 概要  
 **English**  
