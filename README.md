@@ -64,3 +64,6 @@ Free App.
 
 ## App Store 
 <a href="https://itunes.apple.com/us/app/my-chord/id953517029?l=ja&ls=1&mt=8" target="_blank">My Chord</a>
+
+## 他のおすすめアプリ & サポートサイト
+http://travitu-app.hatenablog.com/
