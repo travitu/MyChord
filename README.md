@@ -66,5 +66,5 @@ Free App.
 <a href="https://itunes.apple.com/us/app/my-chord/id953517029?l=ja&ls=1&mt=8" target="_blank">My Chord</a>
 
 ## 他のおすすめアプリ & サポートサイト
-<a href="http://travitu-app.hatenablog.com/entry/2016/12/05/214126" target="_blank">Travitu apps</a>
+<a href="http://travitu-app.hatenablog.com/entry/2016/12/05/214126" target="_blank">travitu apps</a>
 
