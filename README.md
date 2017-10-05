@@ -1,3 +1,6 @@
+![rounded_corners](https://user-images.githubusercontent.com/6576679/31234344-9fe00f9a-aa29-11e7-832f-054d4727aa67.png)
+
+
 My Chord
 =======
 ![icon_image](https://raw.github.com/wiki/travitu/my-resources/screen322x572.jpeg)  
