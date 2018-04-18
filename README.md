@@ -4,11 +4,11 @@
 My Chord
 =======
 ![icon_image](https://raw.github.com/wiki/travitu/my-resources/screen322x572.jpeg)  
-This is a support page of the iOS app "My Chord".  
+This is a support page of the iOS app `My Chord`.  
 iOSアプリ「My Chord」のサポートページです。
 
 ## Information / お知らせ  
-- ver1.4 released
+- version 1.5.0 released
 
 ## Overview / 概要  
 ### English
@@ -25,7 +25,7 @@ Free App.
 ## Function / 機能  
 ### English
 - Chord changes
-- Tone switching [Piano, Guitar, Strings]
+- Tone switching [Piano, Electric Piano, Guitar, Strings]
 - Display of chord history that you tap, save, read
 - Volume slider
 - Share in the Facebook,Twitter,Mail,and more...  
@@ -33,7 +33,7 @@ Free App.
 
 ### Japanese
 - コード（和音）の変更
-- 音色切り替え[ Piano, Guitar, Strings ]
+- 音色切り替え[ Piano, Electric Piano, Guitar, Strings ]
 - タップしたコード履歴の表示、保存、読み込み
 - スライダーで音量調節
 - コード履歴のコピー、シェア    
@@ -58,11 +58,11 @@ Free App.
 
 ## Requirement / 動作条件  
 ### English
-- iOS 8.0 later
+- iOS 9.0 later
 - iPhone and iPod touch
 
 ### Japanese
-- iOS 8.0 以降
+- iOS 9.0 以降
 - iPhone と iPod touch
 
 ## App Store 
