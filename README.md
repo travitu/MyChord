@@ -68,6 +68,14 @@ Free App.
 ## App Store 
 <a href="https://itunes.apple.com/us/app/my-chord/id953517029?l=ja&ls=1&mt=8" target="_blank">My Chord</a>
 
-## 他のおすすめアプリ & サポートサイト
+## Recommend & Support / 他のおすすめアプリ & サポートサイト
 <a href="http://travitu-app.hatenablog.com/entry/2016/12/05/214126" target="_blank">travitu apps</a>
+
+## Privacy Policy
+### English
+https://gist.github.com/travitu/3b416a9ec1f908241c67637b956d47a5
+
+### Japanese
+https://gist.github.com/travitu/f47f40110921f476b84b58566810f836
+
 
