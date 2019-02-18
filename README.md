@@ -1,14 +1,12 @@
 ![rounded_corners](https://user-images.githubusercontent.com/6576679/31234344-9fe00f9a-aa29-11e7-832f-054d4727aa67.png)
 
 
-My Chord
-=======
-![icon_image](https://raw.github.com/wiki/travitu/my-resources/screen322x572.jpeg)  
+![0x0ss](https://user-images.githubusercontent.com/6576679/52960342-f1da9800-33db-11e9-8c28-76964de43be5.jpg)
 This is a support page of the iOS app `My Chord`.  
 iOSアプリ「My Chord」のサポートページです。
 
 ## Information / お知らせ  
-- version 1.5.1 released
+- version 1.6.0 released
 
 ## Overview / 概要  
 ### English
