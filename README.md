@@ -1,7 +1,8 @@
 ![rounded_corners](https://user-images.githubusercontent.com/6576679/31234344-9fe00f9a-aa29-11e7-832f-054d4727aa67.png)
 
 
-![0x0ss](https://user-images.githubusercontent.com/6576679/52960342-f1da9800-33db-11e9-8c28-76964de43be5.jpg)
+![0x0ss](https://user-images.githubusercontent.com/6576679/52960643-978e0700-33dc-11e9-9a8d-2860886b28bb.jpg)
+
 This is a support page of the iOS app `My Chord`.  
 iOSアプリ「My Chord」のサポートページです。
 
