@@ -7,7 +7,7 @@ This is a support page of the iOS app `My Chord`.
 iOSアプリ「My Chord」のサポートページです。
 
 ## Information / お知らせ  
-- version 2.0.0 released
+- version 2.1.0 released
 
 ## Overview / 概要  
 ### English
@@ -29,6 +29,7 @@ Instruments or you can use as a simple accompaniment tool even when not at hand.
 - Copy and share the history of the chord.
 - Change pitch of the sound.
 - Add the storage function of the chord button arrangement.
+- Hide banner ads.
 
 ### Japanese
 - コードの変更
@@ -38,6 +39,7 @@ Instruments or you can use as a simple accompaniment tool even when not at hand.
 - コード履歴のコピー、シェア
 - 音のピッチ変更
 - コードボタン配置の保存、読み込み
+- バナー広告の非表示
 
 ## Usage / 使い方  
 ### English
@@ -45,7 +47,7 @@ Instruments or you can use as a simple accompaniment tool even when not at hand.
 - You can change the chord for each button in the Edit button.
 - You can save the chord buttons arranged in Edit > Save button.
 - Display the chord history of you press in red button, you can save in the Save button when can favorite chord progression.
-- You can see the chord history that you have saved in the past and the switching of the tone and change pitch of the sound in the Menu button.
+- You can see the chord history that you have saved in the past and the switching of the tone and change pitch of the sound and hide banner ads in the Menu button.
 - You can delete all the history of the displayed chord at the long press of the Delete button. 
 
 ### Japanese
@@ -53,7 +55,7 @@ Instruments or you can use as a simple accompaniment tool even when not at hand.
 - Editボタンでボタンごとにコードを変更することができます。
 - Edit > Save ボタンでコードの配置を保存することができます。
 - 赤丸ボタンを押してコードの履歴を表示し、気に入ったコード進行が出来たらSaveボタンで保存できます。
-- Menuボタンで音色の切り替え、ピッチ変更、過去に保存したコード履歴閲覧ができます。
+- Menuボタンで音色の切り替え、ピッチ変更、過去に保存したコード履歴閲覧、バナー広告の非表示ができます。
 - Deleteボタンの長押しで表示中のコード履歴を一括削除
 
 ## Requirement / 動作条件  
