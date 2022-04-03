@@ -7,7 +7,7 @@ This is a support page of the iOS app `My Chord`.
 iOSアプリ「My Chord」のサポートページです。
 
 ## Information / お知らせ  
-- version 2.2.1 released
+- version 2.2.2 released
 
 ## Overview / 概要  
 ### English
